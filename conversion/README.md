@@ -6,7 +6,7 @@ It helps convert between different measurement systems — great for beginners l
 
 ---
 
-## ⚙️ Features
+## Features
 Convert **Binary → Decimal**  
 Convert **Decimal → Binary**  
 Convert **Celsius → Fahrenheit**  
